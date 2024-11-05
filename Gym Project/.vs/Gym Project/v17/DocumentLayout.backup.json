@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vedant\\source\\repos\\Gym Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B19934-6C0C-43CB-BDFA-02933DA60D4C}|Gym Project.csproj|c:\\users\\vedant\\source\\repos\\gym project\\updatedeletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43B19934-6C0C-43CB-BDFA-02933DA60D4C}|Gym Project.csproj|solutionrelative:updatedeletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B19934-6C0C-43CB-BDFA-02933DA60D4C}|Gym Project.csproj|c:\\users\\vedant\\source\\repos\\gym project\\updatedeletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B19934-6C0C-43CB-BDFA-02933DA60D4C}|Gym Project.csproj|solutionrelative:updatedeletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B19934-6C0C-43CB-BDFA-02933DA60D4C}|Gym Project.csproj|c:\\users\\vedant\\source\\repos\\gym project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B19934-6C0C-43CB-BDFA-02933DA60D4C}|Gym Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 315,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateDeletePage.cs",
+              "DocumentMoniker": "C:\\Users\\Vedant\\source\\repos\\Gym Project\\UpdateDeletePage.cs",
+              "RelativeDocumentMoniker": "UpdateDeletePage.cs",
+              "ToolTip": "C:\\Users\\Vedant\\source\\repos\\Gym Project\\UpdateDeletePage.cs",
+              "RelativeToolTip": "UpdateDeletePage.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAawKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:23:06.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateDeletePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vedant\\source\\repos\\Gym Project\\UpdateDeletePage.cs",
+              "RelativeDocumentMoniker": "UpdateDeletePage.cs",
+              "ToolTip": "C:\\Users\\Vedant\\source\\repos\\Gym Project\\UpdateDeletePage.cs [Design]",
+              "RelativeToolTip": "UpdateDeletePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:23:01.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vedant\\source\\repos\\Gym Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vedant\\source\\repos\\Gym Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:43:00.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 85,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
